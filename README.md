@@ -15,5 +15,6 @@ sudo nano /etc/default/grub
 comment out old GRUB_THEME if exist one,
 then add `GRUB_THEME="/path/to/yout/theme.txt"`
 for english version, go with `./theme_en.txt`
-
+Finally,
+`sudo grub-mkconfig -o /boot/grub/grub.cfg`
 
