@@ -1,4 +1,4 @@
-# About
+# Stardew-Valley GRUB Theme
 A modified version of
 https://www.gnome-look.org/p/2327364
 
