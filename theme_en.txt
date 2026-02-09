@@ -35,7 +35,7 @@ terminal-border: "0"
 + image {
   top = 20%-60
   left = 50%-310
-  file = "info_en.png"
+  file = "info.png"
 }
 
 + label {
@@ -44,7 +44,7 @@ terminal-border: "0"
   width = 24%
   align = "center"
   id = "__timeout__"
-  text = "将在 %d 秒后,启动默认启动项!"
+  text = "Booting in %d seconds!"
   text_color = "#333333"
   font = "heiti-32"
 }
