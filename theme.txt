@@ -35,7 +35,7 @@ terminal-border: "0"
 + image {
   top = 20%-60
   left = 50%-310
-  file = "info_en.png"
+  file = "info.png"
 }
 
 + label {
